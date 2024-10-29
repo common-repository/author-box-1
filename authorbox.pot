@@ -1,0 +1,48 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/author-box-1\n"
+"POT-Creation-Date: 2010-05-17 16:27+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: authorbox.php:62
+msgid "About the author"
+msgstr ""
+
+#: authorbox.php:63
+#, php-format
+msgid "%s wrote one article on this blog"
+msgid_plural "%s wrote %d articles on this blog"
+msgstr[0] ""
+msgstr[1] ""
+
+#: authorbox.php:66
+#, php-format
+msgid "Read %s&#8217;s blog"
+msgstr ""
+
+#: authorbox.php:66
+msgid "Blog"
+msgstr ""
+
+#: authorbox.php:68
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr ""
+
+#: authorbox.php:71
+#, php-format
+msgid "Be %s&#8217;s friend on Facebook"
+msgstr ""

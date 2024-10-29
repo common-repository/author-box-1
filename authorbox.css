@@ -1,0 +1,8 @@
+/* Author Box */
+#authorbox {background:#F7F7F7; margin:20px 0px 0px 0px; padding:10px 0; border:1px solid #E6E6E6; overflow:hidden; width:100%;}
+#authorbox h4 {margin:0 0 4px 90px; padding:0;}
+#authorbox p {margin:0 0 0 90px; padding:0;}
+#authorbox img {background: #FFF; float:left; margin:0 10px 0 10px; padding:3px; border:1px solid #CCC;}
+#authorbox ul {overflow:hidden; margin:0 0 0 90px; padding:0;}
+#authorbox ul li {list-style-type:none; float:left; margin:8px 6px 0 0; padding:0 0 0 6px; line-height:120%; border-left:1px solid #ccc;}
+#authorbox ul li.first {border:none; padding:0;}
